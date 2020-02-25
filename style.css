@@ -1,0 +1,14 @@
+h1 {
+    font: verdena;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%;
+    width: 35%;
+}
+table, th, tr, td{
+    border:1px dotted #700000;
+}

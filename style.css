@@ -1,5 +1,8 @@
+
+    
+
 h1 {
-    font: verdena;
+    font-family: monospace;
 }
 
 img {
@@ -12,3 +15,6 @@ img {
 table, th, tr, td{
     border:1px dotted #700000;
 }
+
+
+ 
